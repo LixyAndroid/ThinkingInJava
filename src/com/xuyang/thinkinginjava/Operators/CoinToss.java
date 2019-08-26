@@ -1,4 +1,4 @@
-package com.xuyang.thinkinginjava;
+package com.xuyang.thinkinginjava.Operators;
 
 import java.util.Random;
 
